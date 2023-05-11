@@ -1,0 +1,17 @@
+
+
+
+gdb <executable_name>
+
+list main
+
+break <line number>
+
+info break  // List all breakpoints)
+
+run
+
+print <variable name to print>
+
+clear 
+

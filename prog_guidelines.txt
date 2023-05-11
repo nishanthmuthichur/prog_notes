@@ -1,0 +1,8 @@
+PROGRAMMING GUIDELINES
+
+1. Try to avoid using the mouse as much as you can. 
+2. Keep a set of standard keyboard shortcuts to be used in all tools. 
+3. Try to use dark color scheme for all the graphic tools. 
+4. Keep a cheatsheet of all the common commands that you would need. 
+5. Keep a repository of all the code templates that you would need. 
+
